@@ -1,0 +1,22 @@
+{
+  "name": "cinema-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/index.js",
+    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/index.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
