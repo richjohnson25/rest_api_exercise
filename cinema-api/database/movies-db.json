@@ -1,0 +1,70 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "name": "KKN di Desa Penari",
+            "release_date": "2022-04-30",
+            "genre": "Horror",
+            "status": "ON SHOW",
+            "total_seat": 60,
+            "seat_available": 20,
+            "time": ["09:00", "10:45", "12:30"],
+            "price": 25000
+        },
+        {
+            "id": 2,
+            "name": "Agak Laen",
+            "release_date": "2024-02-01",
+            "genre": "Comedy",
+            "status": "ON SHOW",
+            "total_seat": 60,
+            "seat_available": 20,
+            "time": ["09:00", "11:00", "13:00"],
+            "price": 30000
+        },
+        {
+            "id": 3,
+            "name": "Dune: Part Two",
+            "release_date": "2024-03-01",
+            "genre": "Sci-fi",
+            "status": "ON SHOW",
+            "total_seat": 60,
+            "seat_available": 12,
+            "time": ["14:00", "16:00", "18:00"],
+            "price": 40000
+        },
+        {
+            "id": 4,
+            "name": "Godzilla x Kong: The New Empire",
+            "release_date": "2021-10-22",
+            "genre": "Action",
+            "status": "ON SHOW",
+            "total_seat": 60,
+            "seat_available": 3,
+            "time": ["15:00", "17:15", "19:30"],
+            "price": 35000
+        },
+        {
+            "id": 5,
+            "name": "Badarawuhi di Desa Penari",
+            "release_date": "2024-04-11",
+            "genre": "Horror",
+            "status": "ON SHOW",
+            "total_seat": 60,
+            "seat_available": 15,
+            "time": ["18:00", "19:45", "21:30"],
+            "price": 40000
+        },
+        {
+            "id": 6,
+            "name": "Dilan 1983: Wo Ai Ni",
+            "release_date": "2024-06-13",
+            "genre": "Drama",
+            "status": "UPCOMING",
+            "total_seat": 60,
+            "seat_available": 3,
+            "time": ["11:00", "12:30", "14:00"],
+            "price": 35000
+        }
+    ]
+}

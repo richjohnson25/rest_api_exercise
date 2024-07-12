@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "uid":1718956671528,
+            "username":"felixlie",
+            "email":"felix.lie@email.com",
+            "password":"furoichi15",
+            "role":"USER"
+        },
+        {
+            "uid":1719134562094,
+            "username":"rexyhartono",
+            "email":"rexy.h@email.com",
+            "password":"rexy22",
+            "role":"USER"
+        }
+    ]
+}
